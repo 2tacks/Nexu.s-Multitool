@@ -1,2 +1,2 @@
-# Nexu.s-Multitool
-Nexu.s Multitool, a Multitool for Devlopers,
+# Anaki-chan-ai
+- A Multitool Made By $tacks For Investigation
