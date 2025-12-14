@@ -1,2 +1,47 @@
-# Anaki-chan-ai
+- # Anaki-chan-ai
 - A Multitool Made By $tacks For Investigation
+- # Commands
+- !generate wordlist {howmanyguesses} {a reference} {type}
+- *generates a wordlist*
+- !crack (username)
+- *bruteforces a username account's password for ethical reasons*
+- !find (username)
+- *finds username on platforms i will put in a .json called platforms*
+- !decode (hash)
+- *decodes hashes like base64 string etc.*
+- !encode (text) (hashtype)
+- *encodes a message into hashes*
+- !pswdspray (username) (wordlist name)
+- *same as crack but faster by sprayying passwords from a wordlist*
+- !acsii (text) (type)
+- *querys https://patorjk.com/software/taag for acsii art*
+- !ipgeo (ip) (cleaned or raw)
+- *querys http://edns.ip-api.com/json and http://ip-api.com/json/ for ip geo*
+- !geo (address or coordinates)
+- *querys google for a google maps google earth link*
+- !github
+- *sends my github account and this python script's repo where i will put both links in config.py*
+- !discord
+- *sends my discord account link from config.py*
+- !userinfo (userid)
+- *gets every avalible info about that user*
+- !provider (ip)
+- *says that ip's provider*
+- !latlon (latitude) (longitude)
+- *gets u coordnates of that lat and lon info*
+- !search (attachment) or cdn link for a image
+- *uses face and image revervse techinques to find images of that image and makes a .txt that has every image in catbox.moe and the actual links*
+- !query (website api) (search)
+- *querys any website liek scriptblox etc.*
+- !ping (ip)
+- *pings a ip*
+- !compare (car name with year) (car name with year)
+- *compares car specs and sends them*
+- !pfp (userid)
+- *sends a user's pfp as a discord cdn lnik in this type of code block ```cdn link ```*
+- That's all you greedy being,
+- # Credits
+- All Credits to me ofc
+> Made $tacks
+# Shush
+> # $tacks was here
